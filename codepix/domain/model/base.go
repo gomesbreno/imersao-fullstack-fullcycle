@@ -2,6 +2,8 @@ package model
 
 import (
 	"time"
+
+	"github.com/asaskevich/govalidator"
 )
 
 func init() {
